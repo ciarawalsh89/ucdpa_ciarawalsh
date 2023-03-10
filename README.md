@@ -11,6 +11,7 @@ Python is a high level general purpose programming language .In order to conduct
 https://www.anaconda.com/
 
 * Once on the Anaconda homepage you click the download buttin below- I am on a windows computer so i am downloading Anaconda for Windows.
+
 ![image](https://user-images.githubusercontent.com/124922219/224302438-d2902b42-7593-43a8-85b0-cb548a6967c4.png)
 
 
