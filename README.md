@@ -10,11 +10,26 @@ Python is a high level general purpose programming language .In order to conduct
 
 https://www.anaconda.com/
 
-* Once on the Anaconda homepage you click the download buttin below- I am on a windows computer so i am downloading Anaconda for Windows.
-
+* Once on the Anaconda homepage you click the download button below- I am on a windows computer so i am downloading Anaconda for Windows.
 ![image](https://user-images.githubusercontent.com/124922219/224302438-d2902b42-7593-43a8-85b0-cb548a6967c4.png)
+* Go to your Downloads folder and double-click the installer to launch
+* Click Next.
+* Read the licensing terms and click I Agree.
+* It is recommended that you install for Just Me, which will install Anaconda Distribution to just the current user account.
+* Click Next.
+* Select a destination folder to install Anaconda and click Next. i Installed it on my personal folder set up on my Windows laptop which is also my work laptop ( I didnt need to get any extra permissions to download unlike some other downloads) **Do not install as Administrator unless admin privileges are required.
+![image](https://user-images.githubusercontent.com/124922219/224536836-48ff4136-c97b-416e-8799-60fa860ad56a.png)
+* Click Install. If you want to watch the packages Anaconda is installing, click Show Details.
+* Click Next.
+* Once sucessfully installed  you will get “Thanks for installing Anaconda” dialogue box- then press Finish and the download is complete.
+### 3. Data 📊 📈
 
 
-### 3. Data
+
+
+
 ### 4. Opening and Running the Notebook
+
+
+
 ### 5 Author
