@@ -45,9 +45,29 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 ### 4. Running the notebook 🏃‍♀️ 🖥️ 
 
 #### Downloading and opening the notebook
-We launch Jupyter notebook. Once anaconda is opened, find
-Please see the image below, once launched i then was able to access my data folder mentioned above.
-![image](https://user-images.githubusercontent.com/124922219/224537881-d2605cf4-4219-4458-bcd4-020dae8603d2.png)
+
+* We launch Jupyter notebook. Once anaconda is opened, find the jupyter launch tool. 
+
+![image](https://user-images.githubusercontent.com/124922219/225273019-a2b5ba2e-34b3-452f-8c91-3621dcd1cc61.png)
+
+* Once launched, you should get the general launch page in your web browser 
+
+![image](https://user-images.githubusercontent.com/124922219/225274446-45279bcd-5146-4074-a737-594d49c510e5.png)
+
+
+* Follow the path to the folder where you have stored the data and downloaded my jupyter notebook. I have stored the data and notebook in a folder called Data on my desktop.
+
+![image](https://user-images.githubusercontent.com/124922219/225274751-c0be97d3-d55e-4f56-b7b0-64b7b9a1a282.png)
+
+* Within the containing folder, open the notebook containing all code. It should be stored under the same file name you see below.
+
+![image](https://user-images.githubusercontent.com/124922219/225275275-f9ee0761-ef50-4da4-aa4e-dcd2a9cc20f1.png)
+
+* Once the notebook has been opened, we can run all sections of the notebook as one by clicking the 'fastforward' icon displayed on the top tab below.
+
+![image](https://user-images.githubusercontent.com/124922219/225275712-63c03a4c-f749-41f4-a025-a1a8d3b276b2.png)
+
+* You can also choose to run cell by cell by hitting SHIFT and ENTER at the same time on your keyboard. This notebook has been embedded with text in order to provide the reader with clarity when running the notebook.
 
 ## Sections of the notebook 🔢
 
